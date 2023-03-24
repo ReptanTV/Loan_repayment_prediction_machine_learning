@@ -1,0 +1,3 @@
+Simple machine learning project to predict whether a certain customer of an arbitary bank would pay back the loan taken with interest in a given tenure.
+Since this is a yes or no (1,0) type prediction we should go for classification algorithms , here I've ran the data on two simple classification models
+i.e , decision tree classifier and the random forest  classifier and comapared their accuracy scores to find out the best fit model for this scenario.
